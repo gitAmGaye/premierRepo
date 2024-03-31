@@ -1,0 +1,18 @@
+https://github.com/dockersamples/example-voting-app
+https://docs.release.com/guides-and-examples/common-setup-examples/example-voting-app
+
+youtube
+Running Docker Compose Example Voting App
+Docker Swarm MicroServices | Deploy Multi Service Multi Node Voting App
+
+
+	•	Etape 1 : Déploiement manuel de l'application de vote
+ 
+	•	Etape 2 : Déploiement automatisé via DockerCompose
+ 
+	•	Etape 3 : Déploiement automatisé via DockerCompose (version 3)
+
+Dockerfile fourni pour :
+	•	vote
+	•	worker
+	•	result
